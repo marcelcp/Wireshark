@@ -10,4 +10,3 @@ Wireshark:
 - TCP
 - UDP
 - ICMP
-- DHCP
